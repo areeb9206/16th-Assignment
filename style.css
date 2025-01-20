@@ -5,6 +5,9 @@
 body {
   background-color: rgb(100, 3, 3);
 }
+
+/* SIGN UP PAGE */
+
 .main-container {
   margin: 50px auto;
   display: flex;
@@ -86,7 +89,9 @@ a:hover {
   text-decoration: underline;
 }
 
+
 /* LOGIN PAGE */
+
 .main-container-2 {
   margin: 50px auto;
   display: flex;
